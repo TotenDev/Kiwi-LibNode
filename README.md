@@ -16,7 +16,6 @@ Configure and Build
 
     $ node-gyp configure build
 
-
 ##Usage
 
     var Kiwi = require('./build/Release/Kiwi.node');
@@ -27,7 +26,7 @@ Configure and Build
 		console.log("Not sent :("); 
 	}
 	
-If you don't know what this parameters are please read [`How it works`](git@github.com:TotenDev/Kiwi-LibNode.git).
+If you don't know what this parameters are please read [`How it works`](https://github.com/TotenDev/Kiwi/#how-it-works).
 
 ## Contributing
 
@@ -39,4 +38,4 @@ If you don't know what this parameters are please read [`How it works`](git@gith
 
 ##License
 
-[GNU GENERAL PUBLIC LICENSE V3](Kiwi/raw/master/LICENSE)
+[GNU GENERAL PUBLIC LICENSE V3](Kiwi-LibNode/raw/master/LICENSE)
