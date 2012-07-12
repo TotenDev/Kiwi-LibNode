@@ -1,6 +1,8 @@
-#Kiwi - NodeJS Wrapper [![Build Status](https://secure.travis-ci.org/TotenDev/TDevShortener-LibNode.png?branch=master)](http://travis-ci.org/TotenDev/Kiwi-LibNode)
+#Kiwi - NodeJS Wrapper
 
 NodeJS V8 module to send a messages to [Kiwi](https://github.com/TotenDev/Kiwi)
+
+[![Build Status](https://secure.travis-ci.org/TotenDev/TDevShortener-LibNode.png?branch=master)](http://travis-ci.org/TotenDev/Kiwi-LibNode)
 
 ## Requirements
 
