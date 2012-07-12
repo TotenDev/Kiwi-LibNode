@@ -27,6 +27,14 @@ Configure and Build
 	
 If you don't know what this parameters are please read [`How it works`](git@github.com:TotenDev/Kiwi-LibNode.git).
 
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Added some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
 ##License
 
-[GNU GENERAL PUBLIC LICENSE V3](TDevShortener/raw/master/LICENSE)
+[GNU GENERAL PUBLIC LICENSE V3](Kiwi/raw/master/LICENSE)
