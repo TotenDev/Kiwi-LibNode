@@ -38,4 +38,4 @@ If you don't know what this parameters are please read [`How it works`](https://
 
 ##License
 
-[GNU GENERAL PUBLIC LICENSE V3](Kiwi-LibNode/raw/master/LICENSE)
+[GPL v3](https://github.com/TotenDev/Kiwi-LibNode/raw/master/LICENSE)
