@@ -4,5 +4,5 @@ node_js:
 before_script: 
 	- "node-gyp configure"
 	- "node-gyp build"
-script: "node test.js""
+script: "node test.js"
 after_script: "node-gyp clean"
