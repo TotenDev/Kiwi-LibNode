@@ -4,3 +4,11 @@ node_js:
   - 0.7
   - 0.8
 script: "node test.js"
+
+notifications:
+  irc:
+    channels:
+      - "irc.freenode.org#TotenDev"
+    template:
+      - "%{repository_url} (%{commit}) : %{message} %{foo}"
+      - "Build details: %{build_url}"
