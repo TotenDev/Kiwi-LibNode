@@ -1,0 +1,8 @@
+{
+	"name": "Kiwi-LibNode",
+	"description": "Kiwi-LibNode",
+	"version": "0.0.1",
+	"author": "TotenDev LTDA",
+	"dependencies": {},
+	"engines": { "node":"0.8.x" }
+}
